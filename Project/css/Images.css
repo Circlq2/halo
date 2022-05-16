@@ -3,7 +3,7 @@
 html {
     box-sizing: border-box;
     font-family: Arial, Helvetica, sans-serif;
-    color: #696969;
+    color: #808080;
 }
 
 body {
@@ -35,7 +35,7 @@ body {
  
 .main-nav a:hover {
     background: #bfbfbf;
-    color: #696969;
+    color: #808080;
     font-size: 1.5rem;
     font-family: 'Times New Roman', Times, serif;
     border-radius: 0px 17px 0px 17px;
@@ -46,15 +46,15 @@ body {
  
 .main-nav a:hover {
     background:#bfbfbf;
-    color:#696969 ;
+    color:#808080 ;
 }
  
 header h2:hover {
-    color:#696969;
+    color:#808080;
 }
  
 header p:hover {
-    color:#696969;
+    color:#808080;
 }
  
  
@@ -84,15 +84,6 @@ section.grid-main {
     background: #3a3e42;
 }
  
-.grid-main ul {
-    display: grid;
-    gap: 20px;
-    padding: 0;
-    list-style: none;
-    grid-template-columns: 1fr 1fr 1fr;
-    font-size: smaller;
-}
- 
 .grid-main a {
     background:#a3a3a3;
     display: block;
@@ -109,5 +100,3 @@ section.grid-footer {
     background: #2b2e31;
     border-radius: 0px 0px 25px 25px;
 }
- 
- 
