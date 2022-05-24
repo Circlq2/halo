@@ -12,7 +12,7 @@ body {
     line-height: 1.4;
 }
 
- 
+ /* grid outline */
 .main-nav ul {
     display: grid;
     gap: 20px;
@@ -20,7 +20,7 @@ body {
     list-style: none;
     grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;
 }
- 
+ /* grid colours and border */
 .main-nav a {
     background: #a3a3a3;
     display: block;
@@ -32,7 +32,7 @@ body {
     font-size: 1.1rem;
     border-radius: 17px 0px 17px 0px;
 }
- 
+ /* what happens when you hover over stuff */
 .main-nav a:hover {
     background: #bfbfbf;
     color: #696969;
