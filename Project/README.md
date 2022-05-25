@@ -9,8 +9,8 @@
 
 ### The Design
 - Colour
-  - Reson for picking the colours of the home
-  - 
+  - Reson for picking the colours of the home:
+  To suit the theme of the halo which we chose for our website
 - Layout
 - Pont Styles
 - Media
