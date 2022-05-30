@@ -4,8 +4,8 @@
 
 ### Members of the development Team
 - Tyler Hoshino
--
--
+- Sebastien Chow Worn
+- Eggward
 
 ### The Design
 - Colour
