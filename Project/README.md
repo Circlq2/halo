@@ -12,5 +12,5 @@
   - Reason for picking the colours of the home:
   To suit the theme of **halo** which we chose for our website
 - Layout
-- Pont Styles
+- Font Styles
 - Media
