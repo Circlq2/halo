@@ -76,7 +76,6 @@ body {
 section.grid-head {
     grid-area: grid-head;
     background: #2b2e31;
-    border-radius: 25px 25px 0px 0px;
 }
  
 section.grid-main {
@@ -98,5 +97,4 @@ section.grid-main {
 section.grid-footer {
     grid-area: grid-footer;
     background: #2b2e31;
-    border-radius: 0px 0px 25px 25px;
 }
