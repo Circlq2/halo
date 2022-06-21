@@ -83,7 +83,16 @@ section.grid-main {
     grid-area: grid-main;
     background: #3a3e42;
 }
- 
+
+.grid-main ul {
+    display: grid;
+    gap: 20px;
+    padding: 0;
+    list-style: none;
+    grid-template-columns: 1fr 1fr 1fr;
+    font-size: smaller;
+}
+
 .grid-main a {
     background:#a3a3a3;
     display: block;
